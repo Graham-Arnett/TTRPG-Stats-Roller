@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTRPGStatsRoller", "TTRPGStatsRoller\TTRPGStatsRoller.csproj", "{968E9A7F-57CE-458B-ABA8-87084BE95ADB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{968E9A7F-57CE-458B-ABA8-87084BE95ADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{968E9A7F-57CE-458B-ABA8-87084BE95ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{968E9A7F-57CE-458B-ABA8-87084BE95ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{968E9A7F-57CE-458B-ABA8-87084BE95ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BF8A532-7739-4410-A9CF-9080193B4317}
+	EndGlobalSection
+EndGlobal
