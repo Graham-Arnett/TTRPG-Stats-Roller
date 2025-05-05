@@ -16,6 +16,7 @@
             string[] race = {"ROOTLING","HUMAN","DWARF","ELF","HALFLING","ORC","BUGBEAR","GOBLIN","TIEFLING","KOBOLD"};
             do
             {
+                Console.WriteLine();
                 int classPick = random.Next(classes.Length);
                 int backgroundPick = random.Next(background.Length);
                 int racePick = random.Next(race.Length);
